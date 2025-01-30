@@ -83,7 +83,7 @@ h1 {
 .gallery img {
   width: 100%;
   max-width: 150px;
-  height: 150px; /* Fixed height */
+  height: 100px; /* Fixed height */
   object-fit: cover; /* Ensures the image covers the area without distortion */
   border-radius: 15px;
   border: 2px solid rgba(255, 255, 255, 0.5);
